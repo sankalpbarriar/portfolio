@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.slick-slide >dic{
+    margin: 0 10px;
+}
